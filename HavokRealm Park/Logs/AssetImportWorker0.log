@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.3.14f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/luisa/Desktop/ENTI/4t Curs/TFG/HavokRealm Park
+C:/Users/luisa/Desktop/ENTI/4t Curs/TFG/HavokRealm Theme Park/HavokRealm Park
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52031
-Successfully changed project path to: C:/Users/luisa/Desktop/ENTI/4t Curs/TFG/HavokRealm Park
-C:/Users/luisa/Desktop/ENTI/4t Curs/TFG/HavokRealm Park
+53490
+Successfully changed project path to: C:/Users/luisa/Desktop/ENTI/4t Curs/TFG/HavokRealm Theme Park/HavokRealm Park
+C:/Users/luisa/Desktop/ENTI/4t Curs/TFG/HavokRealm Theme Park/HavokRealm Park
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 44.51 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 43.10 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.14f1 (d0d1bb862f9d)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/luisa/Desktop/ENTI/4t Curs/TFG/HavokRealm Park/Assets
+[Subsystems] Discovering subsystems at path C:/Users/luisa/Desktop/ENTI/4t Curs/TFG/HavokRealm Theme Park/HavokRealm Park/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,89 +35,89 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56700
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003220 seconds.
+Registered in 0.002449 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 48.84 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 42.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.384 seconds
+- Completed reload, in  1.260 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1385ms)
-		BeginReloadAssembly (62ms)
+	ReloadAssembly (1261ms)
+		BeginReloadAssembly (60ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (481ms)
-			LoadAssemblies (59ms)
+		EndReloadAssembly (436ms)
+			LoadAssemblies (57ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (192ms)
+			SetupTypeCache (155ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (176ms)
+			SetupLoadedEditorAssemblies (172ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (49ms)
+				RefreshPlugins (42ms)
 				BeforeProcessingInitializeOnLoad (15ms)
-				ProcessInitializeOnLoadAttributes (80ms)
-				ProcessInitializeOnLoadMethodAttributes (28ms)
+				ProcessInitializeOnLoadAttributes (82ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006306 seconds.
+Registered in 0.005469 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 42.30 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 45.74 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.262 seconds
+- Completed reload, in  1.281 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1263ms)
-		BeginReloadAssembly (150ms)
+	ReloadAssembly (1282ms)
+		BeginReloadAssembly (165ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (1046ms)
-			LoadAssemblies (101ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1049ms)
+			LoadAssemblies (106ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (320ms)
+			SetupTypeCache (304ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (54ms)
-			SetupLoadedEditorAssemblies (442ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (462ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (42ms)
-				BeforeProcessingInitializeOnLoad (97ms)
-				ProcessInitializeOnLoadAttributes (267ms)
-				ProcessInitializeOnLoadMethodAttributes (23ms)
-				AfterProcessingInitializeOnLoad (9ms)
+				RefreshPlugins (46ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (277ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2239 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 99.6 MB.
-System memory in use after: 99.7 MB.
+System memory in use before: 100.5 MB.
+System memory in use after: 100.5 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2679.
-Total: 3.100800 ms (FindLiveObjects: 0.230200 ms CreateObjectMapping: 0.106900 ms MarkObjects: 2.601500 ms  DeleteObjects: 0.160900 ms)
+Total: 2.509300 ms (FindLiveObjects: 0.176400 ms CreateObjectMapping: 0.078900 ms MarkObjects: 2.158900 ms  DeleteObjects: 0.094200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -132,49 +132,17 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Rides/4- Neon City
-  artifactKey: Guid(1f9bfbcaf26993944b31c7c6f3c703ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rides/4- Neon City using Guid(1f9bfbcaf26993944b31c7c6f3c703ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e5d25cb40efad2d773670675a68bc67') in 0.007127 seconds 
-  Import took 0.010804 seconds .
+  path: Assets/Map.png
+  artifactKey: Guid(81d7820b23e7d604e8ab9f42cb4ff09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map.png using Guid(81d7820b23e7d604e8ab9f42cb4ff09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6da536b4516bb414b5bc77106a48e4') in 0.060210 seconds 
+  Import took 0.063342 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 27.713798 seconds.
-  path: Assets/Rides/5- Gunslinger's Canyon
-  artifactKey: Guid(b1ab1fd751d5ac841a5c48bbc49bd640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rides/5- Gunslinger's Canyon using Guid(b1ab1fd751d5ac841a5c48bbc49bd640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f46aacb6a0bffa7f743852275b55956') in 0.003212 seconds 
-  Import took 0.006410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 28.438175 seconds.
-  path: Assets/Rides/6- Rythm Bay
-  artifactKey: Guid(992350978625b1e448108ff46f3ebe6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rides/6- Rythm Bay using Guid(992350978625b1e448108ff46f3ebe6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9917e481b866acf514d1242103026e57') in 0.003255 seconds 
-  Import took 0.006631 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.729171 seconds.
-  path: Assets/Rides/Trees
-  artifactKey: Guid(5600b25283b5e7f49abee885d0469d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rides/Trees using Guid(5600b25283b5e7f49abee885d0469d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8c25b57bb4e3cd6d5b831c8c98bb5ba') in 0.002858 seconds 
-  Import took 0.006118 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.432130 seconds.
-  path: Assets/Rides/7- Skeleton Island
-  artifactKey: Guid(9708bc3490fd0844cb331cb67362155a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rides/7- Skeleton Island using Guid(9708bc3490fd0844cb331cb67362155a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ee590e603ca00279e5ab5a69c72360') in 0.003133 seconds 
-  Import took 0.006482 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 236.233140 seconds.
-  path: Assets/Rides/Rollercoaster.FBX
-  artifactKey: Guid(5008ea873fb4c064b8f0757d0104e5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rides/Rollercoaster.FBX using Guid(5008ea873fb4c064b8f0757d0104e5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9436cab755d0a7f2b1bdacb769516c') in 0.128308 seconds 
-  Import took 0.133408 seconds .
+  Time since last request: 2.611181 seconds.
+  path: Assets/Map.png
+  artifactKey: Guid(81d7820b23e7d604e8ab9f42cb4ff09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map.png using Guid(81d7820b23e7d604e8ab9f42cb4ff09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3679cbea5bab77c1125baa24cfc44e') in 0.048231 seconds 
+  Import took 0.051521 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
