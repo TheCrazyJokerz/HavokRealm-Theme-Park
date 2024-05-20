@@ -18,9 +18,6 @@ public class TriggerAnim : MonoBehaviour
             triggerToHide.SetActive(false);
         }
     }
-
-
-
 }
 
 
