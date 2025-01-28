@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HavokRealm Blockout.unity
+    guid: e89fd4062800a8444ae75e60b45ceee7
+  - enabled: 1
+    path: Assets/Scenes/HavokRealm Blockout 2.unity
+    guid: 28158827d29c19843b01d5db9e3ee90f
   m_configObjects: {}
