@@ -61,5 +61,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Arxius que eren massa grans i em donaven problemes al GitKraken
 HavokRealm Park/Library/ArtifactDB
+HavokRealm Park/Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS
 
